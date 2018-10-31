@@ -15,4 +15,3 @@ To resolve this:
 - Now rebase your local copy with the owner's copy. `git rebase --onto upstream/master`
 - Now you have a repo which has identical history to the owner's repo, but not your remote repo.
 - Finally, execute the following: `git push --force origin master`
-
